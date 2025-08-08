@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there, I'm Riyank Makwana!
 
-<!--
-**riyanktx/riyanktx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Software Engineer Intern @ Motorola Solutions**  
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a results-driven software engineer with a strong interest in building scalable systems, automating workflows, and working across the cloud stack.
+
+I'm particularly enthusiastic about:
+- 🌩️ Cloud-native infrastructure & deployments  
+- 🧠 Scaling artificial intelligence systems efficiently  
+- 🛠️ CI/CD, monitoring, and observability  
+- 🧪 Solving algorithmic problems and coding challenges
+
+## 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/riyanktx/)
+- 💻 [LeetCode](https://leetcode.com/u/riyankk/) 
